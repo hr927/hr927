@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rana</h1>
-<h3 align="center">Aspiring Full Stack Developer. Capable of writing production-ready code using HTML and CSS for the front end and JS for the back end. Always up for a challenge and interested in learning new languages and frameworks.</h3>
+<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge and interested in learning new languages and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr927&label=Profile%20views&color=0e75b6&style=flat" alt="hr927" /> </p>
 
