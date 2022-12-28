@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer. Always up for a challenge and interested in learning new languages and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr927&label=Profile%20views&color=0e75b6&style=flat" alt="hr927" /> </p>
-<p>
+<p align="center">
 <img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **MERN Full Stack**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **hrana93094@gmail.com**
 
  </p>
-<hr>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hr927" alt="hr927" /></a> </p>
 <h3 align="left">Connect with me:</h3>
