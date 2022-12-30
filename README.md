@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 👨‍💻 All of my projects are available at [hr927.github.io](hr927.github.io)
+- 👨‍💻 All of my projects are available at [hr927.github.io](https://hr927.github.io)
 
 - 💬 Ask me about **react,HTML,CSS**
 
