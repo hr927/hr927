@@ -1,7 +1,7 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 
 <h1 align="center">Hi 👋, I'm Himanshu Rana</h1>
-<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks.</h3>
+<h3 align="center">Aspiring Full Stack Developer. Capable of writing production-ready code using HTML,CSS,React for the front end and JS, React-Redux for the back end. Always up for a challenge,and interested in learning new languages, technologies.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi!+Myself+Himanshu+Rana;Aspiring+Full+Stack+Developer;Enjoys+Movies%2C+Video-Games%2C+Trekking" alt="Typing SVG" /></a></p>
